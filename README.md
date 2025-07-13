@@ -6,15 +6,15 @@
 ### 💡 About Me:
 - 🎓 I’m currently pursuing **BCA**
 - 🌱 I’m currently learning and practicing:
-  - Go (Golang)
-  - Linux (CLI + Shell Scripting)
-  - Git & GitHub
-  - Networking Basics
-  - Docker & Containerization
-  - Kubernetes (K8s)
+  - Go (Golang) ✅
+  - Linux (CLI + Shell Scripting) ✅
+  - Git & GitHub ✅
+  - Networking Basics ✅
+  - Docker & Containerization ✅
+  - Kubernetes (K8s) ✅
 
 - 👯 I’m looking to collaborate on **Open Source Projects** to gain **real-world exposure**
-- 📫 How to reach me: `your-email@example.com` *(or GitHub discussions, LinkedIn, etc.)*
+- 📫 How to reach me: `malka988276@gmail.com` *
 
 ---
 
@@ -59,7 +59,7 @@
 
 ### 🙌 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [LinkedIn](https://linkedin.com/in/malka-ali-74ba41350)
 - [GitHub Discussions](https://github.com/malka123456/malka123456/discussions)
 
 ---
