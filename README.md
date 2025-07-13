@@ -14,7 +14,7 @@
   - Kubernetes (K8s) ✅
 
 - 👯 I’m looking to collaborate on **Open Source Projects** to gain **real-world exposure**
-- 📫 How to reach me: `malka988276@gmail.com` *
+- 📫 How to reach me: `malka988276@gmail.com` 
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### 📂 Featured Projects
 
-> *(Coming Soon — You can add them later)*
+> *(Coming Soon )*
 
 | Project | Description | Skills |
 |--------|-------------|--------|
@@ -61,7 +61,7 @@
 
 - [LinkedIn](https://linkedin.com/in/malka-ali-74ba41350)
 - [GitHub Discussions](https://github.com/malka123456/malka123456/discussions)
-
+- [Twitter](https://x.com/malka988276/communities)
 ---
 
 *“Learning is best when shared. Let’s build in public 🚀”*
